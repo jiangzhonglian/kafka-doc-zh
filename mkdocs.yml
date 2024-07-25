@@ -9,7 +9,7 @@ theme:
   name: material
   language: zh
   custom_dir: themes_material
-  logo: https://data.apachecn.org/img/logo/logo_green.png
+  logo: https://data.dafeiyang.cn/images/logo/logo_green.webp
   analytics:
     gtag: G-8DP4GX97XY
   features:
